@@ -1,6 +1,4 @@
 
----
-
 ````markdown
 # 🚀 Employee Management API (FastAPI + MongoDB)
 
@@ -155,8 +153,3 @@ Open in browser:
 
 * GitHub: [pkc144](https://github.com/pkc144)
 
-```
-
-
-Do you want me to also prepare a **screenshot-style Markdown preview** (showing how this will look on GitHub) so you can see before committing?
-```
