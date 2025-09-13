@@ -1,5 +1,4 @@
-
-````markdown
+---
 # 🚀 Employee Management API (FastAPI + MongoDB)
 
 A simple API built with **FastAPI** and **MongoDB** to manage employees.  
